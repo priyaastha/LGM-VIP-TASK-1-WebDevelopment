@@ -14,4 +14,4 @@ Creating a single page website using HTML, CSS and Javascript skills.
 ## Live Demo
 
 Visit website:
-https://lgmtask1-asthapriya.netlify.app/
+https://zealous-liskov-874740.netlify.app/
